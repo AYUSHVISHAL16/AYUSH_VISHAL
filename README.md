@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AYUSHVISHAL16
+- 👋 Hi, I’m AYUSH VISHAL
 👀 I’m interested in software development and open-source projects.
-🌱 I’m currently learning advanced Java.
+🌱 I’m currently learning Full Stack Development In Java.
 💞️ I’m looking to collaborate on innovative tech projects.
 📫 How to reach me: ayushvishal16@gmail.com
 😄 Pronouns: He/Him
