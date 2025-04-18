@@ -40,7 +40,7 @@ I'm a passionate and detail-oriented Full Stack Developer with hands-on experien
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ayush-vishal-23av16/)
+- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ayush-vishal-23av16/)
 - 📬 **Email:** ayushvishal16@gmail.com
 
 ---
